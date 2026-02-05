@@ -21,4 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurbergink&show_icons=true&locale=en" alt="gurbergink" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurbergink&" alt="gurbergink" /></p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=gurbergink" alt="GitHub streak"/>
+</p>
