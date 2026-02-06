@@ -1,17 +1,17 @@
 # Hi 👋, I'm Ben
 
-### Second Year University Student in <span>&#x1f1e7;&#x1f1f7;</span>
+### Second Year University Student in 🇬🇧
 
 
-- 🔭 I'm currently working on **creating a new project in Python once skills available**
+- 🔭 I'm currently working on **Programming Language Concepts**
 
 - 🌱 I'm currently learning **Python, Haskell, Java C#**
 
-- 🤝 I'm looking for help with **Git/Front-end development experience **
+- 🤝 I'm looking for help with **Git/Front-end development experience**
 
 - 📫 How to reach me **gurbergink@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/GurberGink](https://github.com/GurberGink)**
+- 🏯 KanaKollectors game at **https://gurbergink.itch.io/kanakollectors**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
