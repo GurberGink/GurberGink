@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ben
 
-### Second Year University Student in Google (Noto Color Emoji 16.0)
+### Second Year University Student in <span>&#x1f1e7;&#x1f1f7;</span>
 
 
 - 🔭 I'm currently working on **creating a new project in Python once skills available**
