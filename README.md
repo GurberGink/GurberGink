@@ -3,7 +3,7 @@
 ### Second Year University Student in 🇬🇧
 
 
-- 🔭 I'm currently working on **Programming Language Concepts**
+- 🔭 I'm currently working on **Programming Language Concepts && Password Generator**
 
 - 🌱 I'm currently learning **Python, Haskell, Java C#**
 
