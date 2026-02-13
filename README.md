@@ -28,7 +28,8 @@
 
 
 
-![Metrics](https://github.com/gurbergink/gurbergink/blob/main/github-metrics.svg)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=gurbergink&count_private=true&include_all_commits=true&theme=tokyonight)
+
 
 
 
