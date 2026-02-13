@@ -28,7 +28,7 @@
 
 
 
-![Metrics](https://github.com/gurbergink/gurbergink/blob/main/github-metrics.svg)
+[![Metrics](https://github.com/gurbergink/gurbergink/blob/main/github-metrics.svg)](https://github-readme-stats-sigma-five.vercel.app/api?username=gurbergink)
 
 
 
