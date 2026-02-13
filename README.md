@@ -27,4 +27,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=GurberGink&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gurbergink&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=gurbergink&color=blue)
+
