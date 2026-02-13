@@ -13,8 +13,6 @@
 
 - 🏯 KanaKollectors game at **https://gurbergink.itch.io/kanakollectors**
 
-![](https://github-contributor-stats.vercel.app/api?username=GurberGink&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/gurbergink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gurbergink" height="30" width="40" /></a>
@@ -25,3 +23,5 @@
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/haskell" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=haskell" alt="haskell" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
 
 
+![](https://github-contributor-stats.vercel.app/api?username=GurberGink&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+[![](https://visitcount.itsvg.in/api?id=GurberGink&icon=0&color=0)](https://visitcount.itsvg.in)
