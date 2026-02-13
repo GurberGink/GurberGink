@@ -30,3 +30,10 @@
 
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=gurbergink&count_private=true&include_all_commits=true&theme=tokyonight)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=gurbergink&label=Profile%20views&color=0e75b6&style=flat)
+
+![Metrics](./metrics.svg)
+
+![Contribution Calendar](./metrics-calendar.svg)
