@@ -25,7 +25,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=gurbergink&theme=tokyonight)
 
-![](https://nirzak-streak-stats.vercel.app/?user=GurberGink&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GurberGink&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 ![](https://github-contributor-stats.vercel.app/api?username=GurberGink&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=GurberGink&icon=0&color=0)](https://visitcount.itsvg.in)
