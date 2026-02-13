@@ -29,5 +29,5 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=gurbergink&color=blue)](https://komarev.com/ghpvc/?username=gurbergink&label=Profile%20views&color=0e75b6&style=flat)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gurbergink.gurbergink)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=GurberGink.GurberGink)
 
