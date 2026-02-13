@@ -27,5 +27,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=GurberGink&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=gurbergink&color=blue)
+[![Profile Views](https://komarev.com/ghpvc/?username=gurbergink&color=blue)](https://komarev.com/ghpvc/?username=gurbergink&label=Profile%20views&color=0e75b6&style=flat
+)
 
