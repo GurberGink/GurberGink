@@ -6,7 +6,7 @@
 ### Second Year University Student in 🇬🇧
 
 
-- 🔭 I'm currently working on **Programming Language Concepts & GUI for Password Generator**
+- 🔭 I'm currently working on **Programming Language Concepts & GUI for Password Generator with PySide6**
 
 - 🌱 I'm currently learning **Python, Haskell, Java, C#**
 
